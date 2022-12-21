@@ -1,4 +1,3 @@
-# PAC3_Manovich_Reloaded
 
 # PAC3: Visionant el futur amb ulleres de Manovich
 Autor:
@@ -19,6 +18,7 @@ Al mateix temps, els usuaris que disposin de targetes gràfiques desenvolupades 
 En 2015 l’empresa va llençar al mercat una versió beta d’un programari innovador *GeForce Now*. Aquest servei es basava en una subscripció on l’usuari té accés a la seva pròpia biblioteca de jocs, amb una diferència respecte a l'habitual, podrien jugar a aquests jocs executats des del núvol i visualitzats a través de *streaming*. El terme “jocs executats al núvol” ha canviat la manera de jugar, aquest terme també es coneix com joc sota demanda, és un tipus de joc que permet la transmissió directa des d’un servidor extern i visualitzat directament al dispositiu des d’on accedeixes a aquest servei.
 
 ![Fotrgrafia de : https://www.trustedreviews.com/news/buy-geforce-rtx-and-get-a-free-marvel-guardians-game-4171206](https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/geforce-amp-platform-gotg-850-dl.jpg)
+
 Fotografia de: https://www.trustedreviews.com/news/buy-geforce-rtx-and-get-a-free-marvel-guardians-game-4171206
 
 *GeForce Now* va ser introduïda  a Android l'any 2019 així podent atraure a diferents usuaris amants dels videojocs. Aquesta nova forma de consumir videojocs és degut a la hibridació, una combinació dels videojocs comuns coneguts amb la retransmissió a través de la xarxa d’internet i sense necessitat de tenir maquinari amb una gran potència.
@@ -45,6 +45,7 @@ Aquest entorn s’aconsegueix per mitjà de fotografies panoràmiques, o realitz
 Per analitzar aquest cas, ens centrarem en l’exemple que proposa la visita virtual de la Casa Batlló de Barcelona, un dels museus que reinventa la forma de visitar les seves instal·lacions i planteja una immersió en l'arquitectura del conegut arquitecte Antoni Gaudí. Des de la pròpia pàgina web d’aquest museu podem trobar la visita virtual, amb la possibilitat de poder accedir a totes les seves plantes i instal·lacions del conegut edifici que podem visitar presencialment a Passeig de gràcia, Barcelona.
 
 La Casa Batlló, construïda en 1875 encara que es va produir una reforma integral entre el 1904 i 1906, és una obra d’art de l’artista Antoni Gaudí construïda en l’etapa naturalista, la primera dècada del segle XX. Podem apreciar aquest gran edifici ja des de casa gràcies al procés d’hibridació que s’ha produït entre la visualització d’entorns des d’un dispositiu amb accés a internet. On amb només un parell de clics i moviment de ratolí podem accedir a tots els racons d’aquest edifici històric.
+
 ![Fotografia de: https://www.flickr.com/photos/elle_florio/34688618070](https://live.staticflickr.com/4214/34688618070_55263c9e7f_b.jpg)
 Fotografia de: https://www.flickr.com/photos/elle_florio/34688618070
 
