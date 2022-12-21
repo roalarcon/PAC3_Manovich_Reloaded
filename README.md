@@ -1,7 +1,7 @@
 
 # PAC3: Visionant el futur amb ulleres de Manovich
-Autor:
-Data:
+Autor: Rocio Alarcón
+Data: 21 de Desembre de 2022
 
 ## Plantejament
 
